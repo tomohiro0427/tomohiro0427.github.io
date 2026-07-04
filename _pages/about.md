@@ -11,6 +11,7 @@ redirect_from:
 I am currently a first-year Ph.D. student at the University of Fukui.
 I received my B.E. and M.E. from Toyohashi University of Technology (Toyohashi, Japan) in 2026. 
 
+Please feel free to contact me at [a26004t@g.u-fukui.ac.jp](mailto:a26004t@g.u-fukui.ac.jp) for any inquiries or collaboration!
 
 **Research interests:** My current research interests include 3D shape generation and editing, with a particular focus on text-based stylization and sketch-based editing.
 
