@@ -31,3 +31,8 @@ I received my B.E. and M.E. from Toyohashi University of Technology (Toyohashi, 
     </td>
   </tr>
 </tbody></table>
+
+## Awards
+* 會澤智大：映像情報メディア学会北陸支部，2022，優秀学生賞
+* 加藤拓朗，會澤智大，顧淳祉，栗山繁：「構造不一致な参照画像ペアに対応可能な文脈内学習画像編集」，Visual Computing 2025，学生奨励賞
+* T. Aizawa: IEEE Nagoya Section，2025，Excellent Student Award
