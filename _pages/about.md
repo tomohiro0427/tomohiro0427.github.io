@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
+wide_content: true
 redirect_from: 
   - /about/
   - /about.html
@@ -18,6 +19,20 @@ E-mail: a26004t@g.u-fukui.ac.jp
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
     <td style="padding:20px;width:30%;vertical-align:middle">
+      <img src="/images/AIZAWA_PG2026.png" alt="OrnaStyler project teaser" style="border-style: none; width: 120%;">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+      <a href="https://arxiv.org/abs/2608.29905"><strong>OrnaStyler: Ornament-Aware Latent Editing for Content-Preserving 3D Stylization</strong></a>
+      <br>
+      Tomohiro Aizawa, Shigeru Kuriyama, Chunzhi Gu
+      <br>
+      <em>Pacific Graphics 2026 (Journal Track)</em>
+      <br>
+      <a href="https://arxiv.org/abs/2608.29905">arXiv</a> | <a href="https://github.com/tomohiro0427/OrnaStyler">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:20px;width:30%;vertical-align:middle">
       <img src="/images/Aizawa_PR2026.png" alt="project image" style="border-style: none; width: 120%;">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
@@ -32,28 +47,9 @@ E-mail: a26004t@g.u-fukui.ac.jp
   </tr>
 </tbody></table>
 
-<details markdown="1">
-<summary><h2 style="display:inline-block;margin:0.67em 0;cursor:pointer;">Conferences</h2></summary>
+## Awards
 
-### 2026
-* **會澤智大**，顧淳祉，栗山繁：「3D 形状への自然付着物生成と表面スタイル変換の統合モデル」，情報処理学会 第 88 回全国大会，7W-02，2026/3
-
-### 2025
-* 加藤拓朗，**會澤智大**，顧淳祉，栗山繁：「構造不一致な参照画像ペアに対応可能な文脈内学習画像編集」，Visual Computing 2025，30，2025/9
-* **會澤智大**，顧淳祉，栗山繁：「コンテンツを考慮した 3 次元アセットのスタイル編集」，電気学会 電子・情報・システム部門大会（IEEJ），OS4-1-2，2025/8
-* 加藤拓朗，**會澤智大**，顧淳祉，栗山繁：「文脈内学習を用いた画像処理における構造制約の緩和」，情報処理学会 第 87 回全国大会，1W-01，2025/3
-* **會澤智大**，顧淳祉，栗山繁：「一貫性を重視した線画による 3D 点群編集」，パターン認識・メディア理解研究会（PRMU），2，2025/3
-
-### 2024
-* **會澤智大**，高橋遼，顧淳祉，栗山繁：「Canonical 変分オートエンコーダを用いた点群復元」，情報処理学会 第 86 回全国大会，2P-06，2024/3
-
-</details>
-
-<details markdown="1">
-<summary><h2 style="display:inline-block;margin:0.67em 0;cursor:pointer;">Awards</h2></summary>
-
+* **會澤智大**，栗山繁，堀田克哉，張潮，長谷川達人，顧淳祉：「空間的・意味的クラスタリングによるゼロショット3D領域抽出」，Visual Computing 2026，研究奨励賞
 * **T. Aizawa**: IEEE Nagoya Section，2025，Excellent Student Award
 * 加藤拓朗，**會澤智大**，顧淳祉，栗山繁：「構造不一致な参照画像ペアに対応可能な文脈内学習画像編集」，Visual Computing 2025，学生奨励賞
 * **會澤智大**：映像情報メディア学会北陸支部，2022，優秀学生賞
-
-</details>

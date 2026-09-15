@@ -1,13 +1,6 @@
 # Base image: Ruby with necessary dependencies for Jekyll
 FROM ruby:3.2
 
-# Install dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    nodejs \
-    && rm -rf /var/lib/apt/lists/*
-
-
 # Create a non-root user with UID 1000
 RUN groupadd -g 1000 vscode && \
     useradd -m -u 1000 -g vscode vscode
