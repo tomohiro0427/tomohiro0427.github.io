@@ -6,7 +6,9 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if page.title %}
+{% if page.url == "/" %}
+  {% assign seo_title = site.title %}
+{% elsif page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
@@ -86,10 +88,43 @@
   <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
 {% endif %}
 
-{% if site.social %}
+{% if page.url == "/" %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": {{ site.social.name | default: site.name | jsonify }},
+      "alternateName": {{ site.social.alternate_names | jsonify }},
+      "url": {{ seo_url | append: "/" | jsonify }}
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "url": {{ seo_url | append: "/" | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ seo_description | jsonify }},
+      "mainEntity": {
+        "@type": "Person",
+        "name": {{ site.social.name | default: site.name | jsonify }},
+        "alternateName": {{ site.social.alternate_names | jsonify }},
+        "url": {{ seo_url | append: "/" | jsonify }},
+        "image": {{ site.author.avatar | prepend: "/images/" | prepend: seo_url | jsonify }},
+        "description": {{ seo_description | jsonify }},
+        "jobTitle": "Ph.D. student",
+        "affiliation": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Fukui"
+        },
+        "sameAs": {{ site.social.links | jsonify }}
+      }
+    }
+  </script>
+{% elsif site.social %}
+  <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
@@ -119,11 +154,7 @@
 {% if page.date %}
   <meta property="og:type" content="article">
 {% endif %}
-{% if page.excerpt %}
-  <meta property="og:description" name="description" content="{{ seo_description }}">
-{% elsif site.og_description %}
-  <meta property="og:description" name="description" content="{{ site.og_description }}">
-{% endif %}
+<meta property="og:description" content="{{ seo_description }}">
 {% if seo_url %}
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}

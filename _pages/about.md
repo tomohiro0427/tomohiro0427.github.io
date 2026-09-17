@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Tomohiro Aizawa / 會澤 智大"
+description: "Tomohiro Aizawa (會澤 智大) is a Ph.D. student at the University of Fukui researching 3D shape generation, editing, and stylization."
 author_profile: true
 wide_content: true
 redirect_from: 
@@ -9,7 +10,7 @@ redirect_from:
 ---
 
 ## Profile
-I am a first-year Ph.D. student at the University of Fukui. Prior to this, I received my B.E. and M.E. degrees from Toyohashi University of Technology, Japan, in 2026.
+I am Tomohiro Aizawa (會澤 智大), a first-year Ph.D. student at the University of Fukui. Prior to this, I received my B.E. and M.E. degrees from Toyohashi University of Technology, Japan, in 2026.
 
 E-mail: a26004t@g.u-fukui.ac.jp
 
