@@ -19,14 +19,14 @@ E-mail: a26004t@g.u-fukui.ac.jp
 ## News
 <div class="news-scroll" tabindex="0" aria-label="News archive">
   <ul class="news-list">
-    <li><time datetime="2026-09">Sep. 2026</time><span class="news-separator">|</span> Received the Research Encouragement Award at Visual Computing 2026 for our work on zero-shot 3D region extraction.</li>
-    <li><time datetime="2026-08-27">Aug. 27, 2026</time><span class="news-separator">|</span> Our paper <a href="https://arxiv.org/abs/2608.29905">“OrnaStyler: Ornament-Aware Latent Editing for Content-Preserving 3D Stylization”</a> was accepted to Computer Graphics Forum (Proceedings of Pacific Graphics 2026). [<a href="https://github.com/tomohiro0427/OrnaStyler">Code</a>]</li>
-    <li><time datetime="2026-08-11">Aug. 11, 2026</time><span class="news-separator">|</span> Our paper “3D Stylization from a Single-View Image via Flow-Based Latent Editing” was accepted to IEEE GCCE 2026.</li>
-    <li><time datetime="2026-07">Jul. 2026</time><span class="news-separator">|</span> Our paper <a href="https://www.sciencedirect.com/science/article/pii/S0031320326000580">“Towards Consistent Sketch-Guided Local 3D Shape Editing”</a> was published in Pattern Recognition. [<a href="https://tomohiro0427.github.io/SEN/">Project Page</a>]</li>
-    <li><time datetime="2026-04">Apr. 2026</time><span class="news-separator">|</span> Started my Ph.D. at the University of Fukui.</li>
-    <li><time datetime="2026-03">Mar. 2026</time><span class="news-separator">|</span> Presented our work on integrated natural attachment generation and surface stylization for 3D shapes at the 88th National Convention of IPSJ.</li>
-    <li><time datetime="2025-09">Sep. 2025</time><span class="news-separator">|</span> Our co-authored work received the Student Encouragement Award at Visual Computing 2025.</li>
-    <li><time datetime="2025">2025</time><span class="news-separator">|</span> Received the IEEE Nagoya Section Excellent Student Award.</li>
+    <li><time datetime="2026-09">2026/9</time><span class="news-separator">|</span> Received the Research Encouragement Award at Visual Computing 2026.</li>
+    <li><time datetime="2026-08-27">2026/8/27</time><span class="news-separator">|</span> 1 paper is accepted to <a href="https://arxiv.org/abs/2608.29905">Pacific Graphics 2026 (CGF Journal Track)</a>!</li>
+    <li><time datetime="2026-08-11">2026/8/11</time><span class="news-separator">|</span> 1 paper is accepted to <a href="https://edas.info/web/ieeegcce2026/program.html">GCCE 2026</a>.</li>
+    <li><time datetime="2026-04">2026/4</time><span class="news-separator">|</span> Started my Ph.D. at the University of Fukui.</li>
+    <li><time datetime="2026-02-20">2026/2/20</time><span class="news-separator">|</span> 1 paper will be presented at 第88回情報処理学会全国大会.</li>
+    <li><time datetime="2026-02">2026/2</time><span class="news-separator">|</span> Received the IEEE Nagoya Section Excellent Student Award.</li>
+    <li><time datetime="2026-01">2026/1</time><span class="news-separator">|</span> 1 paper is accepted to <a href="https://www.sciencedirect.com/science/article/pii/S0031320326000580">Pattern Recognition</a>!</li>
+    <li><time datetime="2025-09">2025/9</time><span class="news-separator">|</span> 1 co-authored paper received the Student Encouragement Award at Visual Computing 2025.</li>
   </ul>
 </div>
 
