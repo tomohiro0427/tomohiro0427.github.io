@@ -19,8 +19,6 @@ E-mail: a26004t@g.u-fukui.ac.jp
 ## News
 <div class="news-scroll" tabindex="0" aria-label="News archive">
   <ul class="news-list">
-    <li><time datetime="2026-09-22">2026/9/22</time><span class="news-separator">|</span> 1 paper will be presented at <a href="https://pacificgraphics2026.github.io/full-program.html">Pacific Graphics 2026</a>.</li>
-    <li><time datetime="2026-09-07">2026/9/7</time><span class="news-separator">|</span> 1 paper will be presented at <a href="https://edas.info/web/ieeegcce2026/program.html">GCCE 2026</a>.</li>
     <li><time datetime="2026-09">2026/9</time><span class="news-separator">|</span> Received the Research Encouragement Award at Visual Computing 2026.</li>
     <li><time datetime="2026-08-27">2026/8/27</time><span class="news-separator">|</span> 1 paper is accepted to <a href="https://arxiv.org/abs/2608.29905">Pacific Graphics 2026 (CGF Journal Track)</a>!</li>
     <li><time datetime="2026-08-23">2026/8/23</time><span class="news-separator">|</span> 1 paper will be presented at <a href="https://visualcomputing.jp/vc2026/">Visual Computing 2026</a> (Short Oral).</li>
