@@ -19,13 +19,15 @@ E-mail: a26004t@g.u-fukui.ac.jp
 ## News
 <div class="news-scroll" tabindex="0" aria-label="News archive">
   <ul class="news-list">
+    <li><time datetime="2026-09-22">2026/9/22</time><span class="news-separator">|</span> 1 paper will be presented at <a href="https://pacificgraphics2026.github.io/full-program.html">Pacific Graphics 2026</a>.</li>
+    <li><time datetime="2026-09-07">2026/9/7</time><span class="news-separator">|</span> 1 paper will be presented at <a href="https://edas.info/web/ieeegcce2026/program.html">GCCE 2026</a>.</li>
     <li><time datetime="2026-09">2026/9</time><span class="news-separator">|</span> Received the Research Encouragement Award at Visual Computing 2026.</li>
     <li><time datetime="2026-08-27">2026/8/27</time><span class="news-separator">|</span> 1 paper is accepted to <a href="https://arxiv.org/abs/2608.29905">Pacific Graphics 2026 (CGF Journal Track)</a>!</li>
-    <li><time datetime="2026-08-23">2026/8/23</time><span class="news-separator">|</span> 2 papers will be presented at <a href="https://visualcomputing.jp/vc2026/">Visual Computing 2026</a> (Long Oral 1, Short Oral 1).</li>
-    <li><time datetime="2026-08-23">2026/8/23</time><span class="news-separator">|</span> 4 papers will be presented at <a href="https://gakkai-web.net/jiasc/program/hp26/index.html">2026年電気学会産業応用部門大会</a>.</li>
+    <li><time datetime="2026-08-23">2026/8/23</time><span class="news-separator">|</span> 1 paper will be presented at <a href="https://visualcomputing.jp/vc2026/">Visual Computing 2026</a> (Short Oral).</li>
+    <li><time datetime="2026-08-23">2026/8/23</time><span class="news-separator">|</span> 1 paper will be presented at <a href="https://gakkai-web.net/jiasc/program/hp26/index.html">2026年電気学会産業応用部門大会</a>.</li>
     <li><time datetime="2026-08-11">2026/8/11</time><span class="news-separator">|</span> 1 paper is accepted to <a href="https://edas.info/web/ieeegcce2026/program.html">GCCE 2026</a>.</li>
     <li><time datetime="2026-04">2026/4</time><span class="news-separator">|</span> Started my Ph.D. at the University of Fukui.</li>
-    <li><time datetime="2026-02-20">2026/2/20</time><span class="news-separator">|</span> 3 papers will be presented at <a href="https://www.ipsj.or.jp/event/taikai/88/index.html">第88回情報処理学会全国大会</a>.</li>
+    <li><time datetime="2026-02-20">2026/2/20</time><span class="news-separator">|</span> 1 paper will be presented at <a href="https://www.ipsj.or.jp/event/taikai/88/index.html">第88回情報処理学会全国大会</a>.</li>
     <li><time datetime="2026-02">2026/2</time><span class="news-separator">|</span> Received the IEEE Nagoya Section Excellent Student Award.</li>
     <li><time datetime="2026-01">2026/1</time><span class="news-separator">|</span> 1 paper is accepted to <a href="https://www.sciencedirect.com/science/article/pii/S0031320326000580">Pattern Recognition</a>!</li>
     <li><time datetime="2025-09">2025/9</time><span class="news-separator">|</span> 1 co-authored paper received the Student Encouragement Award at Visual Computing 2025.</li>
