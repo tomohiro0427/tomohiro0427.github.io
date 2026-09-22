@@ -27,7 +27,7 @@ E-mail: a26004t@g.u-fukui.ac.jp
       <br>
       Tomohiro Aizawa, Shigeru Kuriyama, Chunzhi Gu
       <br>
-      <em>Pacific Graphics 2026 (Journal Track)</em>
+      <em>Computer Graphics Forum 2026</em>
       <br>
       <a href="https://arxiv.org/abs/2608.29905">arXiv</a> | <a href="https://github.com/tomohiro0427/OrnaStyler">Code</a>
     </td>
@@ -41,7 +41,7 @@ E-mail: a26004t@g.u-fukui.ac.jp
       <br>
       Tomohiro Aizawa, Chunzhi Gu, Shigeru Kuriyama
       <br>
-      <em>Pattern Recognition</em>
+      <em>Pattern Recognition 2026</em>
       <br>
       <a href="https://www.sciencedirect.com/science/article/pii/S0031320326000580">Paper</a> | <a href="https://tomohiro0427.github.io/SEN/">Project Page</a>
     </td>
