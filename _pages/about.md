@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 ## Profile
-I am a Ph.D. student at the University of Fukui and a member of the [Computational Media Intelligence Laboratory (CMI Lab)](https://cgulab.com/). I received my B.E. and M.E. degrees from Toyohashi University of Technology in 2026, where I was a member of the [Visual AI Laboratory (VAL)](https://val.cs.tut.ac.jp/).
+I am a Ph.D. student at the University of Fukui and a member of the [Computational Media Intelligence Laboratory](https://cgulab.com/). I received my B.E. and M.E. degrees from Toyohashi University of Technology in 2026, where I was a member of the [Visual AI Laboratory](https://val.cs.tut.ac.jp/).
 
 E-mail: a26004t@g.u-fukui.ac.jp
 
