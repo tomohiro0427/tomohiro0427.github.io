@@ -9,8 +9,8 @@ author_profile: true
 
 ### 2026
 * T. Kato, **T. Aizawa**, C. Gu, S. Kuriyama: “Image-Analogy Retargeting: Structure-Preserving In-Context Learning with Attention Remapping”, [IEICE Transactions on Information and Systems](https://www.jstage.jst.go.jp/browse/transinf/), 2026 (to appear)
-* **T. Aizawa**, S. Kuriyama, C. Gu: “OrnaStyler: Ornament-Aware Latent Editing for Content-Preserving 3D Stylization”, Computer Graphics Forum, vol.45, no.7, e70611, 2026 (Proceedings of Pacific Graphics 2026), DOI: [10.1111/cgf.70611](https://doi.org/10.1111/cgf.70611)
-* **T. Aizawa**, C. Gu, S. Kuriyama: “Towards Consistent Sketch-Guided Local 3D Shape Editing”, Pattern Recognition, vol.175, 113095, 2026/7 (IF = 9.1)
+* **T. Aizawa**, S. Kuriyama, C. Gu: “OrnaStyler: Ornament-Aware Latent Editing for Content-Preserving 3D Stylization”, Computer Graphics Forum, vol.45, no.7, e70611, 2026 (Proceedings of Pacific Graphics 2026) [[Paper](https://diglib.eg.org/items/9e0db149-58f1-4428-b97a-790f6f6422af)]
+* **T. Aizawa**, C. Gu, S. Kuriyama: “Towards Consistent Sketch-Guided Local 3D Shape Editing”, Pattern Recognition, vol.175, 113095, 2026/7 (IF = 9.1) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000580)]
 
 ## Conference Papers
 
