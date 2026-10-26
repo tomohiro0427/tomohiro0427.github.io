@@ -13,4 +13,24 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
+<!-- Open external links in a new tab -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a[href]').forEach(function(link) {
+      var url = new URL(link.href, window.location.href);
+      var isExternal = (url.protocol === 'http:' || url.protocol === 'https:') &&
+        url.origin !== window.location.origin;
+
+      if (isExternal) {
+        link.target = '_blank';
+        var relValues = (link.getAttribute('rel') || '').split(/\s+/).filter(Boolean);
+        ['noopener', 'noreferrer'].forEach(function(value) {
+          if (relValues.indexOf(value) === -1) relValues.push(value);
+        });
+        link.setAttribute('rel', relValues.join(' '));
+      }
+    });
+  });
+</script>
+
 <!-- end custom footer snippets -->
