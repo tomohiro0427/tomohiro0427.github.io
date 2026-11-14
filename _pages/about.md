@@ -46,7 +46,7 @@ E-mail: a26004t@g.u-fukui.ac.jp
       <br>
       <em>Computer Graphics Forum 2026</em>
       <br>
-      <a href="https://diglib.eg.org/items/9e0db149-58f1-4428-b97a-790f6f6422af">Paper</a> | <a href="https://arxiv.org/abs/2608.29905">arXiv</a> | <a href="https://github.com/tomohiro0427/OrnaStyler">Code</a>
+      <a href="https://doi.org/10.1111/cgf.70611">Paper</a> | <a href="https://arxiv.org/abs/2608.29905">arXiv</a> | <a href="https://github.com/tomohiro0427/OrnaStyler">Code</a>
     </td>
   </tr>
   <tr>

@@ -9,13 +9,13 @@ author_profile: true
 
 ### 2026
 * T. Kato, **T. Aizawa**, C. Gu, S. Kuriyama: “Image-Analogy Retargeting: Structure-Preserving In-Context Learning with Attention Remapping”, [IEICE Transactions on Information and Systems](https://www.jstage.jst.go.jp/browse/transinf/), 2026 (to appear)
-* **T. Aizawa**, S. Kuriyama, C. Gu: “OrnaStyler: Ornament-Aware Latent Editing for Content-Preserving 3D Stylization”, Computer Graphics Forum, vol.45, no.7, e70611, 2026 (Proceedings of Pacific Graphics 2026) [[Paper](https://diglib.eg.org/items/9e0db149-58f1-4428-b97a-790f6f6422af)]
+* **T. Aizawa**, S. Kuriyama, C. Gu: “OrnaStyler: Ornament-Aware Latent Editing for Content-Preserving 3D Stylization”, Computer Graphics Forum, vol.45, no.7, e70611, 2026 (Proceedings of Pacific Graphics 2026) [[Paper](https://doi.org/10.1111/cgf.70611)]
 * **T. Aizawa**, C. Gu, S. Kuriyama: “Towards Consistent Sketch-Guided Local 3D Shape Editing”, Pattern Recognition, vol.175, 113095, 2026/7 (IF = 9.1) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000580)]
 
 ## Conference Papers
 
 ### 2026
-* **T. Aizawa**, K. Hotta, C. Zhang, T. Hasegawa, C. Gu: “3D Stylization from a Single-View Image via Flow-Based Latent Editing”, 2026 IEEE 15th Global Conference on Consumer Electronics (GCCE 2026), 2026/10 (to appear)
+* **T. Aizawa**, K. Hotta, C. Zhang, T. Hasegawa, C. Gu: “3D Stylization from a Single-View Image via Flow-Based Latent Editing”, 2026 IEEE 15th Global Conference on Consumer Electronics (GCCE 2026), OS-TMR(2)，2026/10/28
 * **會澤智大**，栗山繁，堀田克哉，張潮，長谷川達人，顧淳祉：「空間的・意味的クラスタリングによるゼロショット3D領域抽出」，Visual Computing 2026，OS2-3 (Short)，2026/9
 * **會澤智大**，堀田克哉，張潮，長谷川達人，顧淳祉：「単一視点画像を用いた 3D スタイル転写」，2026年 電気学会産業応用部門大会，6-O1-6，2026/9
 * **會澤智大**，顧淳祉，栗山繁：「3D 形状への自然付着物生成と表面スタイル変換の統合モデル」，情報処理学会 第 88 回全国大会，7W-02，2026/3
