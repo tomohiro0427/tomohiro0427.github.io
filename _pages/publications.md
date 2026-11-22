@@ -15,6 +15,7 @@ author_profile: true
 ## Conference Papers
 
 ### 2026
+* 鈴木誠也，前田駿，**會澤智大**，堀田克哉，佐々木誠，岡田啓司，張潮，顧淳祉：「階層型グラフ学習を用いた動物歩様異常検知」，第27回計測自動制御学会システムインテグレーション部門講演会（SI2026），1F8-13，2026/12
 * **T. Aizawa**, K. Hotta, C. Zhang, T. Hasegawa, C. Gu: “3D Stylization from a Single-View Image via Flow-Based Latent Editing”, 2026 IEEE 15th Global Conference on Consumer Electronics (GCCE 2026), OS-TMR(2)，2026/10/28
 * **會澤智大**，栗山繁，堀田克哉，張潮，長谷川達人，顧淳祉：「空間的・意味的クラスタリングによるゼロショット3D領域抽出」，Visual Computing 2026，OS2-3 (Short)，2026/9
 * **會澤智大**，堀田克哉，張潮，長谷川達人，顧淳祉：「単一視点画像を用いた 3D スタイル転写」，2026年 電気学会産業応用部門大会，6-O1-6，2026/9
